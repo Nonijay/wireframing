@@ -17,14 +17,14 @@
 ### Functionality
   Outlines key functionalities and interactions.
 
-## Types of Wireframes
+# Types of Wireframes
 ### Low-fidelity
   Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
   
 ### High-fidelity
   More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
-## What type of wireframe is used [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) 
+# What type of wireframe is used [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) 
   The wireframe used in the link above is a high-fidelity wireframe which translates the final and well detailed design
 
 ## Popular wireframing tools
@@ -53,7 +53,7 @@
   - **Iterative Design:** Figma's flexibility allows you to easily make changes and explore different layout options based on feedback or new ideas.   
   - **Prototyping Capabilities:** The ability to quickly turn static wireframes into interactive prototypes allows you to test user flows and interactions early on, identifying potential usability issues before investing in detailed design and development.
 
-## Benefits of Wireframing in Software Development
+# Benefits of Wireframing in Software Development
 ### Guiding the Design Process:
 
   - Defines Scope and Structure: Clearly outlines key sections (hero search, popular destinations, unique stays, experiences, footer), establishing the homepage's content and organization.
