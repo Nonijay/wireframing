@@ -85,3 +85,19 @@
   2. Lack of Immediate Feedback: Users were unsure if an item had been successfully added to their cart after tapping the "Add to Cart" button. There was no clear visual confirmation or indication of the updated cart status. This led to uncertainty and some users tapping the button multiple times, unsure if their action was registered.
   3. Inconvenient Cart Access: The wireframes initially placed the cart icon in the top right corner of the screen, which some users found less accessible, especially with one-handed use on larger phones.
 
+### Resolution of Usability Issues:
+   Based on the user feedback gathered during the wireframe review, the UX designer revised the wireframes as follows:
+
+  - Revised Quantity Selection: The small "+" and "-" buttons were replaced with a dropdown menu or a larger, more easily tappable stepper control (e.g., a numerical input field with larger increment/decrement buttons). This provided a more comfortable and accurate way for users to select the desired quantity.
+  - Implemented Immediate Visual Feedback: After tapping "Add to Cart," a clear visual confirmation was added. This included:
+      - A brief animation, such as a small item icon flying into the cart icon in the header.
+      - A temporary notification appearing at the bottom of the screen confirming the item was added and offering an option to "View Cart."
+      - An immediate update of the number of items displayed on the cart icon in the header.
+  - Relocated Cart Icon: The cart icon was moved to a more easily accessible location, such as the bottom navigation bar, which is generally within thumb's reach on most smartphones.
+### Impact on the Final Product:
+   These changes, implemented based on feedback from the wireframes, had a significant positive impact on the final product:
+  - Improved Efficiency: Users could now easily and accurately adjust the quantity of items they wanted to add, leading to a smoother and faster shopping experience.
+  - Increased Confidence: The immediate visual feedback after adding an item to the cart provided users with reassurance that their action was successful, reducing frustration and the likelihood of errors.   
+  - Enhanced Accessibility: Moving the cart icon to the bottom navigation made it easier for users to access their cart at any point, especially during browsing and adding items.
+  - Reduced User Errors: The larger quantity controls minimized accidental taps, leading to fewer mistakes in order creation.
+### In essence, wireframing acts as a proactive measure to design with the user in mind. By focusing on structure, content, and basic interactions early on, it helps create a solid foundation for a user-friendly product that is intuitive, efficient, and meets the needs of its target audience. It's a critical step in de-risking the design process and ultimately delivering a better user experience.
