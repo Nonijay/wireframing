@@ -69,3 +69,19 @@
   - Focused Discussions: Keeps conversations centered on user experience and information architecture, avoiding premature visual design debates.
   - Documentation and Reference: Acts as a visual document throughout the project for design, development, and testing.
   - Alignment on Goals: Visually represents how the homepage aims to achieve Airbnb's objectives (connecting users with stays and experiences).
+
+##  Task: Real World scenario of a mobile app development for a local grocery store chain
+  The app aimed to allow customers to browse products, create shopping lists, place orders for pickup or delivery, and manage their loyalty points.
+  
+### Identifying Usability Issues During Wireframing
+  During the wireframing phase, the UX designer created a series of medium-fidelity wireframes outlining the key user flows. One particular flow involved adding items to the shopping cart.
+  **The initial wireframe design for the product detail page included:**
+  - A prominent "Add to Cart" button.
+  - A separate section below the button to select the quantity of the item, using small "+" and "-" buttons.
+  - No immediate visual feedback upon tapping the "Add to Cart" button, except for a subtle change in the button's state.<br/>
+  **When these wireframes were presented to a small group of potential users for informal feedback (a form of early usability testing),**
+### Several issues were identified: 
+  1. Difficulty in Quantity Adjustment: Users found the "+" and "-" buttons for quantity selection to be too small and fiddly, especially on a mobile screen. They expressed concern about accidentally hitting the wrong button.
+  2. Lack of Immediate Feedback: Users were unsure if an item had been successfully added to their cart after tapping the "Add to Cart" button. There was no clear visual confirmation or indication of the updated cart status. This led to uncertainty and some users tapping the button multiple times, unsure if their action was registered.
+  3. Inconvenient Cart Access: The wireframes initially placed the cart icon in the top right corner of the screen, which some users found less accessible, especially with one-handed use on larger phones.
+
